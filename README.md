@@ -15,14 +15,8 @@ The dashboard transforms raw job market data into meaningful business insights u
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](https://github.com/abhishekTP623/Global-AI-Job-Market-Salary-Trends-2025/blob/main/Dashboard%20snap.png)
 
-> 📌 Replace `dashboard.png` with your actual image file name.
-
-You can add multiple images like this:
-
-![Page 1](images/page1.png)
-![Page 2](images/page2.png)
 
 ---
 
